@@ -5,7 +5,9 @@ class Dog
 end
 
 class Person
-  
+  def initialize
+    
+  end
 end
 
 fido = Dog.new
